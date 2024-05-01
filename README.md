@@ -30,10 +30,10 @@ During the implementation phase, the following key components and functionalitie
 
 ## Screenshots
 
-<img src="/app/screenshots/1.png" alt="Screenshot 1" width="400">
-<img src="/app/screenshots/2.png" alt="Screenshot 2" width="400">
-<img src="/app/screenshots/3.png" alt="Screenshot 3" width="400">
-<img src="/app/screenshots/4.png" alt="Screenshot 4" width="400">
+<img src="/app/screenshots/1.jpeg" alt="Screenshot 1" width="400">
+<img src="/app/screenshots/2.jpeg" alt="Screenshot 2" width="400">
+<img src="/app/screenshots/3.jpeg" alt="Screenshot 3" width="400">
+<img src="/app/screenshots/4.jpeg" alt="Screenshot 4" width="400">
 
 ## Installation
 1. Clone this repository to your local machine using `git clone https://github.com/your-username/exposys-virtual-internship-app.git`.
