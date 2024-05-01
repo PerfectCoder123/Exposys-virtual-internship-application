@@ -1,0 +1,26 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Border shape -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#808080" />
+
+        </shape>
+    </item>
+
+    <!-- Background shape -->
+    <item android:top="2dp" android:right="2dp" android:bottom="2dp" android:left="2dp">
+        <shape android:shape="rectangle">
+            <solid android:color="@android:color/white" />
+            <corners android:radius="4dp" />
+        </shape>
+    </item>
+
+    <!-- Down arrow icon -->
+    <item android:right="8dp" android:gravity="end">
+        <bitmap
+            android:src="@drawable/arrow"
+            android:tint="@color/black" />
+    </item>
+
+</layer-list>
